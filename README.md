@@ -30,4 +30,5 @@ A small accessibility mod for reducing flicker, flashing, and high-intensity vis
 ## License
 
 The see the [original game](https://codeberg.org/Wuzzy/Glitch)'s license info for its textures and code.
-My modifications are CC0 v1.0 and may be added to the original game however desired.
+My modifications to the original textures are CC0 v1.0 and may be added to the original game however desired.
+My code is licensed 0BSD.
