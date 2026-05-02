@@ -1,10 +1,6 @@
 # Photosensitivity Mod for Glitch
 
-A small accessibility mod for reducing flicker, flashing, and high-intensity visual effects in glitch-based games.  Designed to reduce visual triggers for players with photosensitivity by minimizing:
-
-* Rapid animation
-* Bright flickering
-* Sudden particle bursts
+This is a small mod that attempts to make high-speed, high-contrast effects slower and more balanced.
 
 ## Features
 
@@ -12,23 +8,24 @@ A small accessibility mod for reducing flicker, flashing, and high-intensity vis
   Reduces the speed of noisy/cycling animated node textures such as white noise, rainbow noise, gateway, savezone.
 
 * **Softens particle effects**
-  Electron collection particles are gentler
+  Electron collection particles have gentler explosion animations.
 
 * **Texture adjustments**
   Noise textures have their color contrast reduced without eliminating their vibe.
+
+* **Title Splash Tweaks**
+  The nearly full screen `Glitch` title splash now animates less aggressively.
 
 ---
 
 ## Usage
 
-1. Place this mod in your `mods/` folder
-2. Enable it for your world
-3. Play the game as normal, either for a new or existing save.
+1. Place this mod in your `mods/` folder, or download and install from the in-game interface.
+2. Create a world if needed, and enable the mod for that world.
+3. Play the game as normal, either for a new or existing world save.
 
 ---
 
 ## License
 
-The see the [original game](https://codeberg.org/Wuzzy/Glitch)'s license info for its textures and code.
-My modifications to the original textures are CC0 v1.0 and may be added to the original game however desired.
-My code is licensed 0BSD.
+See COPYRIGHT.md for license information
