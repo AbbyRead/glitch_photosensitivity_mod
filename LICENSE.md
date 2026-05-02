@@ -22,4 +22,4 @@ OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 ## Texture Assets
 
-Texture assets in the `textures` folder here are copies of the CC-BY 4.0 licensed counterparts from the game [Glitch by Wuzzy](https://content.luanti.org/packages/Wuzzy/glitch/).  I'm licensing the modifications I've made as [CC0 v1.0](https://creativecommons.org/publicdomain/zero/1.0/) as a means of making it clear that I revoke all meaningful aspects of my own rights to them.  Please refer to the original license info on Wuzzy's repository if you intend to use and repurpose any of these yourself.
+Texture assets in the `textures` folder here are copies of the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) licensed counterparts from the game [Glitch by Wuzzy](https://content.luanti.org/packages/Wuzzy/glitch/).  I'm licensing the modifications I've made as [CC0 v1.0](https://creativecommons.org/publicdomain/zero/1.0/) as a means of making it clear that I revoke all meaningful aspects of my own rights to them.  Please refer to the original license info on Wuzzy's repository if you intend to use and repurpose any of these yourself.
