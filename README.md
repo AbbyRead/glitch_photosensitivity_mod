@@ -20,7 +20,7 @@ This is a small mod that attempts to make high-speed, high-contrast effects slow
 
 ## Usage
 
-1. Place this mod in your `mods/` folder, or download and install from the in-game interface.
+1. Place this mod in your `mods` folder, or download and install from the in-game interface.
 2. Create a world if needed, and enable the mod for that world.
 3. Play the game as normal, either for a new or existing world save.
 
@@ -28,4 +28,4 @@ This is a small mod that attempts to make high-speed, high-contrast effects slow
 
 ## License
 
-See COPYRIGHT.md for license information
+See COPYRIGHT.md for license information.
